@@ -1,0 +1,6 @@
+br/com/claudiathalita/springbootcommysql/controller/dto/PessoaRq.class
+br/com/claudiathalita/springbootcommysql/SpringBootComMysqlApplication.class
+br/com/claudiathalita/springbootcommysql/controller/PessoaController.class
+br/com/claudiathalita/springbootcommysql/controller/dto/PessoaRs.class
+br/com/claudiathalita/springbootcommysql/model/Pessoa.class
+br/com/claudiathalita/springbootcommysql/repository/PessoaRepository.class

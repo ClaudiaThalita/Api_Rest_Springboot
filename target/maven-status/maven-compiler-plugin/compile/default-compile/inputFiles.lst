@@ -1,0 +1,6 @@
+/home/thalita/Documents/Api_Rest_Springboot/spring-boot-com-mysql/src/main/java/br/com/claudiathalita/springbootcommysql/controller/dto/PessoaRq.java
+/home/thalita/Documents/Api_Rest_Springboot/spring-boot-com-mysql/src/main/java/br/com/claudiathalita/springbootcommysql/model/Pessoa.java
+/home/thalita/Documents/Api_Rest_Springboot/spring-boot-com-mysql/src/main/java/br/com/claudiathalita/springbootcommysql/SpringBootComMysqlApplication.java
+/home/thalita/Documents/Api_Rest_Springboot/spring-boot-com-mysql/src/main/java/br/com/claudiathalita/springbootcommysql/controller/dto/PessoaRs.java
+/home/thalita/Documents/Api_Rest_Springboot/spring-boot-com-mysql/src/main/java/br/com/claudiathalita/springbootcommysql/repository/PessoaRepository.java
+/home/thalita/Documents/Api_Rest_Springboot/spring-boot-com-mysql/src/main/java/br/com/claudiathalita/springbootcommysql/controller/PessoaController.java
